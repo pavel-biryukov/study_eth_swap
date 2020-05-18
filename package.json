@@ -1,0 +1,40 @@
+{
+  "name": "study_eth_swap",
+  "version": "1.0.0",
+  "description": "Learning Blockchain from DappUniversity course ETH Swap https://www.youtube.com/watch?v=d_XOWCoUAHY",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavel-biryukov/study_eth_swap.git"
+  },
+  "author": "Pavel Biriukov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pavel-biryukov/study_eth_swap/issues"
+  },
+  "homepage": "https://github.com/pavel-biryukov/study_eth_swap#readme",
+  "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "babel-preset-stage-3": "^6.24.1",
+    "bootstrap": "^4.5.0",
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
+    "chai-bignumber": "^3.0.0",
+    "identicon.js": "^2.3.3",
+    "react": "^16.13.1",
+    "react-bootstrap": "^1.0.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "^3.4.1",
+    "truffle": "^5.1.26",
+    "web3": "^1.2.7"
+  }
+}
